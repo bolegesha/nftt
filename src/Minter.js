@@ -73,11 +73,6 @@ function addWalletListener() {
       <br></br>
       <h1 id="title">NFT Minter</h1>
       <form>
-        <h2>🖼 Link to asset: </h2>
-        <input
-          type="text"
-          onChange={(event) => setURL(event.target.value)}
-        />
         <h2>🤔 Name: </h2>
         <input
           type="text"
